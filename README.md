@@ -1,2 +1,2 @@
-# project-IN104
+# projetin104
 Classifieur de genres musicaux 
